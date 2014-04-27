@@ -1,0 +1,54 @@
+#container{
+border: 1px solid #AAA;
+box-shadow: 0 0 30px rgba(0,0,0,0.3);
+border-radius: 5px;
+width: 100%;
+margin: 0 auto;
+text-align: left;
+min-width: 970px;
+padding-top: 10px;
+background: white url(/static/images/bg2.png);}
+
+#page{width:98%;margin:0 auto;min-height:550px;_height:550px;}
+.col-main{float:left;width:100%;}
+.col-sub{float:left;}
+.grid-m0s6 .main-wrap{margin-right:240px;}
+.grid-m0s6 .col-sub{width:230px;margin-left:-230px;}
+.grid-s6m0 .main-wrap{margin-left:240px;}
+.grid-s6m0 .col-sub{width:230px;margin-left:-100%;}
+h2,h3{font-family:"\5FAE\8F6F\96C5\9ED1";}
+.mod{padding:0 10px;border:1px solid #D8D8D8;background:#fff;}
+.mod-hd{height:29px;line-height:29px;border-bottom:1px solid #D8D8D8;}
+.mod-hd h2{float:left;font:bold 14px/29px "\5FAE\8F6F\96C5\9ED1";}
+.mod-hd .link-more{float:right;}
+.path span{margin:0 3px;}
+.mod-bd{padding:5px 0;}
+.item-list li{height:26px;line-height:26px;}
+.item-list a{padding-left:10px;background-position:0 -163px;}
+.mb10{margin-bottom:10px;}
+.bon{border:none;}
+.close{display:block;width:13px;height:13px;text-indent:-9999em;overflow:hidden;background-position:0 -1684px;}
+.mask{width:100%;height:100%;background-color:#000;filter:alpha(opacity=50);opacity:.5;position:absolute;left:0;top:0;z-index:99998;}
+a{color:#04D;}
+.cat a{color:#3E3E3E;}
+.clearfix,.grid-m0s6,.grid-s6m0{zoom:1;}
+.clearfix:after,.grid-m0s6:after,.grid-s6m0:after{content:"";display:block;clear:both;visibility:hidden;height:0;}
+.cn-mod{float:left;display:inline;margin-left:-1px;width:315px;height:146px;border:1px solid #D8D8D8;border-bottom-color:#F60;cursor:pointer}
+.contact-cont{height:205px;border:1px solid #F60;border-top:0}
+.contact-more{display:block;width:105px;height:40px;font:14px/40px "\5FAE\8F6F\96C5\9ED1";}
+.cat{border-bottom:1px solid #EAEAEA;position:relative}
+.cat.last{border-bottom:0}
+.cat-tree .mod-hd{border-color:#999}
+.cat.open .cat-content{display:block}
+.cat-hx{display:none;display:block;width:12px;height:12px;overflow:hidden;position:absolute;top:8px;line-height:12px;}
+.cat.close{height:auto;width:auto;text-indent:0;overflow:visible;background:0}
+.cat.close .cat-hx,.cat.open .cat-hx{display:block}
+.cat.close .cat-hx{font-weight: 800;color: red;border: 2px solid #F00;}
+.cat h3{height:29px;padding-left:25px;line-height:29px;font-size:14px;font-weight:400}
+.cat-content{display:none;padding:5px 0 5px 15px;line-height:26px;border-top:1px solid #EAEAEA;overflow:hidden}
+.cat-content li{padding-left:15px;background-position:5px -280px}.quick-guide .col{float:left;width:50%}
+.step-mod{padding-right:0}
+.step{height:43px;padding:15px 0;overflow:hidden}
+.pop-step{width:606px;margin:0 auto;height:43px}
+.step h2{float:left;width:65px;font:bold 14px/43px "\5FAE\8F6F\96C5\9ED1";border-right:2px solid}
+.linkdetail{overflow:hidden}.list-links{margin:0 23px;overflow:hidden}.list-links li{zoom:1;overflow:hidden;padding:30px 0;margin-top:-2px;border-top:1px dotted #999}.list-links dl{float:left;width:370px;overflow:hidden}.list-links dl:after{clear:both;content:'.';display:block;height:0;visibility:hidden}.list-links dl dt{margin:0 0 5px 10px;font-size:14px;font-weight:700}.list-links dl dd{float:none;display:inline-block;*display:inline;zoom:1;height:15px;line-height:14px;padding:0 10px;border-left:1px solid #A9A9A9;margin:5px 0 5px -1px}.list-links dl dd a{display:block;overflow:hidden;white-space:pre-line}
